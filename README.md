@@ -1,7 +1,10 @@
 # Create: Agriculture
 Neoforge pack of 1.20.1, including Create and many of its various addons, the Thermal Series, and a few magic mods including Ars Noveau, Occultism, and (hopefully) compatiblity between many of them and Create.
 
+To launch the pack from the index.toml and pack.toml files, you will need a launcher like Prism or MultiMC. Tutorial incoming based on Create Astral tutorial (once I learn how packwiz works). ***TODO***
 
+  This pack uses packwiz for its management, for its ease of use in downloading mods from either modrinth or curseforge, keeping this Github repo lightweight.
+    Thank you to the packwiz team. Additional thanks to Laskyyy and the team at [Create-Astral](https://github.com/Laskyyy/Create-Astral) for the inspiration and motivation for me to take on this project, as well as pointing me towards packwiz as a modpack creation tool.
 
 
 <details>
@@ -99,6 +102,7 @@ Neoforge pack of 1.20.1, including Create and many of its various addons, the Th
   - [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g)
   - [SmartBrainLib](https://modrinth.com/mod/PuyPazRT)
   - [Ecospherical Expansion](https://modrinth.com/mod/WtcuxDNN)
+  - Ecospherical Expansion and Tectonic compat pack, found in Apothicon02 [discord](https://discord.gg/HHqKa8vTAN)
   - [Expanded Combat](https://modrinth.com/mod/sElBpAJt)
   - [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW)
   - [Zeta](https://modrinth.com/mod/MVARlG2f)
