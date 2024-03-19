@@ -1,0 +1,13 @@
+name = "Festive Delight"
+filename = "Festive_Delight_1.3_Forge_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AsUUCoXX/versions/ZyfDn5n8/Festive_Delight_1.3_Forge_1.20.1.jar"
+hash-format = "sha1"
+hash = "c29bc770ce94cc2dcfd49be7df6338b44df0abe6"
+
+[update]
+[update.modrinth]
+mod-id = "AsUUCoXX"
+version = "ZyfDn5n8"

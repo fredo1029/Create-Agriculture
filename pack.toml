@@ -1,0 +1,16 @@
+name = "Create: Agriculture"
+author = "danibobani"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1fbe7a94814a998624e8ec05b0e09048dbac2d0c7bc5a906561c5ec4effb794c"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.101"
+
+[options]
+acceptable-game-versions = ["Forge"]
