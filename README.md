@@ -1,7 +1,7 @@
 # Create: Agriculture
 Neoforge pack of 1.20.1, including Create and many of its various addons, the Thermal Series, and a few magic mods including Ars Noveau, Occultism, and (hopefully) compatiblity between many of them and Create.
 
-To launch the pack from the index.toml and pack.toml files, you will need a launcher like Prism or MultiMC. Tutorial incoming based on Create Astral tutorial (once I learn how packwiz works). ***TODO***
+To launch the pack from the index.toml and pack.toml files, you will need a launcher like Prism or MultiMC. Tutorial incoming based on Create Astral tutorial (once I learn how packwiz works). [***TODO***](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)
 
   This pack uses packwiz for its management, for its ease of use in downloading mods from either modrinth or curseforge, keeping this Github repo lightweight.
     Thank you to the packwiz team. Additional thanks to Laskyyy and the team at [Create-Astral](https://github.com/Laskyyy/Create-Astral) for the inspiration and motivation for me to take on this project, as well as pointing me towards packwiz as a modpack creation tool.
