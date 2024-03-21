@@ -1,0 +1,13 @@
+name = "Vegan Delight"
+filename = "vegandelight-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/TVVron91/vegandelight-1.0.jar"
+hash-format = "sha1"
+hash = "8d934cdf9d68aed037129fb36ed12691f881e06d"
+
+[update]
+[update.modrinth]
+mod-id = "Na8nA0jA"
+version = "TVVron91"

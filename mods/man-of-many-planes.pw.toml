@@ -1,0 +1,13 @@
+name = "Man of Many Planes"
+filename = "man_of_many_planes-0.0.3+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qdTHi0q/versions/df61Nkfn/man_of_many_planes-0.0.3%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "8253440ea865d56a74dcafdfdf18c9a1ce7e1c02"
+
+[update]
+[update.modrinth]
+mod-id = "9qdTHi0q"
+version = "df61Nkfn"

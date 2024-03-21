@@ -1,0 +1,13 @@
+name = "[BPOP]Botany Pots Ore Planting"
+filename = "BotanyPotsOrePlanting-Forge-7.9.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CH8ZMjgi/versions/1QIkRSbw/BotanyPotsOrePlanting-Forge-7.9.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7474e0a567373d9a82fed9962427eac372eb3809"
+
+[update]
+[update.modrinth]
+mod-id = "CH8ZMjgi"
+version = "1QIkRSbw"
