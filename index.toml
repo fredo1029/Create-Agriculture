@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CreateAg_Mod_Checklist.csv"
-hash = "6fdc183d90e6f699db1da48c5ea7809e0fa4fc15e5b31cb3f1a82539a9f50579"
+hash = "e130d9876626ef71b9e1ad3d6240d8937b12a5f6cb9524f2215b7091305b275b"
 
 [[files]]
 file = "LICENSE"
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6bc625b9e8aa12b8801b74663c1b201120a8050df1610b2e4aa5790bc6672e3"
 metafile = true
 
 [[files]]
