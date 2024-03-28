@@ -17,6 +17,11 @@ file = "README.md"
 hash = "660bc9f056bb0c7ee84c1a30399beae52266beb2ad185f7343db7e21f03bdbd7"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -54,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "5bcac6be5426a00ab2cda12bff7a3d85a25afe5a4297a55735a2e9b031da8218"
 metafile = true
 
 [[files]]
@@ -107,6 +117,11 @@ hash = "5a793d8130c84c538c51a3e6a907c0ca0b5d791aba54904962567d361148724b"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "43d795e9ecee2d8c15e1fbd1302199c4fb5a9e678ed07cca26c10d58f5288f51"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
 metafile = true
@@ -157,6 +172,11 @@ hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
@@ -202,6 +222,11 @@ hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
+metafile = true
+
+[[files]]
 file = "mods/ec-ars-compat.pw.toml"
 hash = "a7f8ff219b4bd604b5b7ae95dad380fb8bcf5ba628b79b229182b29601fb968b"
 metafile = true
@@ -222,6 +247,16 @@ hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "e3b7089df085f95c00aa1bd4ae853f3c61df39bdade06d340961c25fc7ab502b"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "ff5905fadddeb58cf3205b7b222c5e298dc2cbd9b0fd8ef1b9a228196fd8968b"
 metafile = true
@@ -229,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-combat.pw.toml"
 hash = "29d036dcbf19e1bb7f30e4420495d7023db1d3c02d662d129b5c434286c34031"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "e82fd0eb13f257d5ca4d5dc931f7e2124dab61c73a25bcf00380d3f73344e7a5"
 metafile = true
 
 [[files]]
@@ -272,8 +312,18 @@ hash = "bbf057ba1842d58115ebd16f14fd0fda26d2588bde8b761f90909078717bd844"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "148adc903fe1409402b123101158cfb84054ba5b4e4826e017cb3d509d8fb9b2"
+metafile = true
+
+[[files]]
 file = "mods/funky-flora.pw.toml"
 hash = "4663fc5e25f00deed4a116d936d179d4cc7e9b842ac8b2030452c7416eadb9c2"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
@@ -317,6 +367,11 @@ hash = "5041edf661d181e6b015bf06fd1ba194cf21ea3c431fe4e7f438b4ed6cd1e80c"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
 metafile = true
@@ -344,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "e71354f6eb664a8bc3f904bcc24b0043421cdd88c60bebc3a9547db40ad2357f"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
 metafile = true
 
 [[files]]
@@ -427,6 +487,11 @@ hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "bc8d4a1b3deccfb5b8a93aa7322984bb392f5d0a40082e1c0587cf286386de2d"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
 hash = "e0f624511181996e5cdaa3af40daec17dcc2f4c208b89da845711ea75e23ed71"
 metafile = true
@@ -449,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "654e61336af73eafb5755075c7819922cdf43a101bfac7a24e5d45cc517fc9df"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
 metafile = true
 
 [[files]]
@@ -492,6 +562,11 @@ hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
 metafile = true
 
 [[files]]
+file = "mods/tetra.pw.toml"
+hash = "af6d9bf3859abc6a3b9f61067325c3b1a6c5c20b97c462bbfcb8ca64449bb683"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
 metafile = true
@@ -514,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "40fc412bf85830d0a1047f8a45e6c9d43f5d56270c90922bc29fe2b40dbeb045"
 metafile = true
 
 [[files]]
