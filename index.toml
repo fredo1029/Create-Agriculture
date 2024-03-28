@@ -221,6 +221,11 @@ hash = "34dd2220ac0a631bcf0cd8c3201d3cd4bddc1f814701ab894bac2d3c4981aa8f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-cookbook-reforged.pw.toml"
+hash = "e355d0d56271c704c2c808af6154263e9cf140b04323adcfc9d22c64c4c5a8df"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
@@ -363,6 +368,26 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a710d790426a1a8c087a08524ad6ef69a9132e9b13f79722c18a984f35e7026f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
 metafile = true
 
 [[files]]
