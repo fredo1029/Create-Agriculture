@@ -1,0 +1,13 @@
+name = "Farmer's Delight: Cookbook Reforged"
+filename = "fdcookbook-1.20.1-forge-1.6.1-rel.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpguhJmg/versions/ZP60NOJw/fdcookbook-1.20.1-forge-1.6.1-rel.jar"
+hash-format = "sha1"
+hash = "82a544de40edb8d44d7322d73222cf122b54207b"
+
+[update]
+[update.modrinth]
+mod-id = "RpguhJmg"
+version = "ZP60NOJw"

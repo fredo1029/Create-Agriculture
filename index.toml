@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CreateAg_Mod_Checklist.csv"
+hash = "6fdc183d90e6f699db1da48c5ea7809e0fa4fc15e5b31cb3f1a82539a9f50579"
+
+[[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "LICENSE_packwiz"
+hash = "feb87a2e0c305de3464cc44077da5393c52d8ca6362d37427157d04ec6f4510d"
+
+[[files]]
+file = "README.md"
+hash = "660bc9f056bb0c7ee84c1a30399beae52266beb2ad185f7343db7e21f03bdbd7"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -152,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
+hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "c59a28b28918a557c1010097b9e88b22d6dcd6e4d1c50040cbe35cb3a4c5a400"
+hash = "fea05e18c1184d96bf7543a68f25918458a1e84b68ee2b1e5fda01bb26603a0e"
 metafile = true
 
 [[files]]
@@ -192,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
-hash = "067014868ab862fbd87bff2644abe1c8b244b9607e3a0536fef0888ddf0a4972"
+hash = "4c7604d2f257189ff44da01f6a771c2ab26b71d21ccf18f2e04409c0aa2eba5b"
 metafile = true
 
 [[files]]
@@ -218,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/fancy-trinkets.pw.toml"
 hash = "34dd2220ac0a631bcf0cd8c3201d3cd4bddc1f814701ab894bac2d3c4981aa8f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-cookbook-reforged.pw.toml"
+hash = "e355d0d56271c704c2c808af6154263e9cf140b04323adcfc9d22c64c4c5a8df"
 metafile = true
 
 [[files]]
@@ -292,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "cd74d3de1cd246e509142cbee67c94b652aecb49927bf3c30f84081c54d41f5c"
+hash = "5041edf661d181e6b015bf06fd1ba194cf21ea3c431fe4e7f438b4ed6cd1e80c"
 metafile = true
 
 [[files]]
@@ -366,6 +387,26 @@ hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a710d790426a1a8c087a08524ad6ef69a9132e9b13f79722c18a984f35e7026f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -407,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "1b4550507eee20ae5b5b7f1b28f0ce6ae90448fc5009e16a2f1a20ce19cd94f7"
+hash = "654e61336af73eafb5755075c7819922cdf43a101bfac7a24e5d45cc517fc9df"
 metafile = true
 
 [[files]]
@@ -472,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
 metafile = true
 
 [[files]]
