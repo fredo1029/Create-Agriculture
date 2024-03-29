@@ -112,6 +112,11 @@ hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "5a793d8130c84c538c51a3e6a907c0ca0b5d791aba54904962567d361148724b"
 metafile = true
@@ -144,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
