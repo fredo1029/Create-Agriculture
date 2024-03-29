@@ -347,6 +347,11 @@ hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "51c6e1e9cf8b15af6c9a93ccf06d5e64049e255c52c77d73c9c59e6f635aa5d1"
 metafile = true
