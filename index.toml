@@ -92,6 +92,11 @@ hash = "fa592f14a11940c0762fa39782c09794c31bde0ba13b005a2c1a69843c338f75"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
+metafile = true
+
+[[files]]
 file = "mods/butchers-delight-foods.pw.toml"
 hash = "4f122ac562a4249f0ffa7dd2a69e0ed65b7242d895f22ffa26ba0bee7036fbc6"
 metafile = true
@@ -499,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]
