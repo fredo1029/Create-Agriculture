@@ -1,13 +1,13 @@
 name = "Fancy Trinkets"
-filename = "fancytrinkets-1.20-3.0.0.jar"
+filename = "fancytrinkets-1.20-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qPFz1WPA/versions/QEWoFrt9/fancytrinkets-1.20-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/qPFz1WPA/versions/et9JaWhb/fancytrinkets-1.20-3.0.1.jar"
 hash-format = "sha1"
-hash = "64c91b664efec3aea27bf5c25b9f1c4a3a7f340a"
+hash = "9b22f6e93eea47e77c9560a94a343bf0373d7301"
 
 [update]
 [update.modrinth]
 mod-id = "qPFz1WPA"
-version = "QEWoFrt9"
+version = "et9JaWhb"

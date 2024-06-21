@@ -1,7 +1,6 @@
 name = "Ars Ocultas"
 filename = "ars_ocultas-1.20.1-1.2.2-all.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Tsw8vbks/versions/si2iOQut/ars_ocultas-1.20.1-1.2.2-all.jar"
