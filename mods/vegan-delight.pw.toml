@@ -1,0 +1,13 @@
+name = "Vegan Delight"
+filename = "vegandelight-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/MDMf7ked/vegandelight-1.2.jar"
+hash-format = "sha1"
+hash = "8b0b551df467a493586bde4c5a3c263f31b331cb"
+
+[update]
+[update.modrinth]
+mod-id = "Na8nA0jA"
+version = "MDMf7ked"
