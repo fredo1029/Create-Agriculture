@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
+hash = "eee6571b04eea9d1a8365944537d457815f8460d009b0a1f30a0b5b4e9a3589e"
 metafile = true
 
 [[files]]
@@ -625,7 +625,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
-
-[[files]]
-file = "script.sh"
-hash = "65d7b5fc43bb895b51be22bce16791a9649c4400a927c90a713f307a04c8129a"

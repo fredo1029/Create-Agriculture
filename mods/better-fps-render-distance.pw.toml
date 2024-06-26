@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5333766
 project-id = 551520
+
+[option]
+optional = true
+description = "Doesn't seem to work with Distant Horizons. Enable if needed for faster loading."
