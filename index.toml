@@ -57,6 +57,11 @@ hash = "0a12bf7b326e85031ba681a430d2bba8446d50fd9813fa5e7397e7eaf46c64ee"
 metafile = true
 
 [[files]]
+file = "mods/blooming-biosphere.pw.toml"
+hash = "9c30c5f1b5d38e8f4cc8a9eedda10405f344c4148770261f5775374049cd9df1"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
 metafile = true
@@ -319,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "148adc903fe1409402b123101158cfb84054ba5b4e4826e017cb3d509d8fb9b2"
-metafile = true
-
-[[files]]
-file = "mods/funky-flora.pw.toml"
-hash = "4663fc5e25f00deed4a116d936d179d4cc7e9b842ac8b2030452c7416eadb9c2"
 metafile = true
 
 [[files]]
