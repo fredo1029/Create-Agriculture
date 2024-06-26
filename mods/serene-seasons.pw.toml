@@ -11,7 +11,3 @@ hash = "9d30811b601f12282b7243931df7aa37ea380693"
 [update.modrinth]
 mod-id = "e0bNACJD"
 version = "gvqNV855"
-
-[option]
-optional = true
-description = "Testing strange jungle trees in taiga biomes."

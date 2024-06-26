@@ -1,16 +1,16 @@
-name = "Pam's HarvestCraft 2 - Trees"
-filename = "pamhc2trees-1.20-1.0.2.jar"
+name = "Serene Seasons - Pam's HarvestCraft 2: Trees Compat"
+filename = "sereneseasonsphc2trees-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3e4118f4649305f3940c412d20d6295d884900bf"
+hash = "fde519f05604510cb79ff441811859d9d6a10d81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4625518
-project-id = 365460
+file-id = 5077078
+project-id = 715030
 
 [option]
 optional = true

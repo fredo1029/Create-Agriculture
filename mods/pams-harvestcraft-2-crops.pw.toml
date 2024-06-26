@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4687624
 project-id = 361385
-
-[option]
-optional = true
-description = "Testing strange jungle trees in taiga biomes."
