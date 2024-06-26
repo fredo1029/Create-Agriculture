@@ -458,22 +458,22 @@ metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+hash = "2e39db44f95791437df466a73f8e6400c0edf52d21383c0efaa484451debbf00"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+hash = "b248dbd4c5fade6259f93c6189d17ad994c7c0dbb74fa47260377932fee03855"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
-hash = "a710d790426a1a8c087a08524ad6ef69a9132e9b13f79722c18a984f35e7026f"
+hash = "d86d23ca92ac90e78cbea6585909c9645845044f9cdbca28597c9d07b66a1222"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
-hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
+hash = "2a71f380c3af0741a0104998cc1d4a32d5d2af66229a68da8c3bc552abd44689"
 metafile = true
 
 [[files]]
@@ -508,12 +508,12 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
-hash = "e0f624511181996e5cdaa3af40daec17dcc2f4c208b89da845711ea75e23ed71"
+hash = "c1e8c4a8a6f8b4f6a74c691f9d70c3d80acbc60b8b981d1114db70a67fb6992b"
 metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
+hash = "8be78c6a92b05164e1f38ca13e2d43c800a650ac4dbdc595adea54042b8eb9a3"
 metafile = true
 
 [[files]]
