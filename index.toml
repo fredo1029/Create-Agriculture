@@ -272,11 +272,6 @@ hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "49a2451e3eb9e039d8e2f6e6311fa1d6bf94c6a75fcab84e1c649fb1a1ab972f"
-metafile = true
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "6d7a97ebfa6e37762f34a5ce2452e602db83c7105efa6344b03a669b93966701"
 metafile = true
@@ -443,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystics-biomes.pw.toml"
-hash = "90f796c8177fdea82b7bbdcb0f291fce05532f796897354e75b301fcec9907da"
+hash = "a1aea941cbde2b5526a3425edae7b411e41fb1fb084bb559a0bb17d7d4f6b431"
 metafile = true
 
 [[files]]
@@ -578,12 +573,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
+hash = "4491dadfb9ba8657b53e2826b22e5fddaa07b8b32c15b05e91104b9cbe0b6dfd"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
+hash = "eb215da94f6704b07000c3668175600390a1f0f2b90292a6b65fa18842882a7e"
 metafile = true
 
 [[files]]
@@ -630,3 +625,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
+
+[[files]]
+file = "script.sh"
+hash = "65d7b5fc43bb895b51be22bce16791a9649c4400a927c90a713f307a04c8129a"
