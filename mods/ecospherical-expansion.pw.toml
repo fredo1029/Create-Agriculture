@@ -11,3 +11,7 @@ hash = "24c4d658826853049a076cbc8a2d9e9f3e1744e5"
 [update.modrinth]
 mod-id = "WtcuxDNN"
 version = "5lXIJiba"
+
+[option]
+optional = true
+description = "Possibly adding weird biomes in Snow Taiga? Breaking ice spikes?"

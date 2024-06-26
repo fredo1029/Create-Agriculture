@@ -22,16 +22,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -63,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "eee6571b04eea9d1a8365944537d457815f8460d009b0a1f30a0b5b4e9a3589e"
+hash = "0a12bf7b326e85031ba681a430d2bba8446d50fd9813fa5e7397e7eaf46c64ee"
 metafile = true
 
 [[files]]
@@ -253,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
-hash = "97094411d22cf700020de38b6683422173113a516208761e4621faca53b91764"
+hash = "5de22dc53fa9400f0251dc82444e3e27d2156b43439a42b45d1d22335efe71c2"
 metafile = true
 
 [[files]]

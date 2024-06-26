@@ -14,4 +14,4 @@ project-id = 551520
 
 [option]
 optional = true
-description = "Doesn't seem to work with Distant Horizons. Enable if needed for faster loading."
+description = "Seems to work with Distant Horizons. Enable if needed for faster loading."
