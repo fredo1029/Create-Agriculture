@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
-hash = "5de22dc53fa9400f0251dc82444e3e27d2156b43439a42b45d1d22335efe71c2"
+hash = "31b77496734b3a4853a34fc589148b7762eaad6de39975c93bc4469c511f1ec4"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystics-biomes.pw.toml"
-hash = "a1aea941cbde2b5526a3425edae7b411e41fb1fb084bb559a0bb17d7d4f6b431"
+hash = "9af20ed69714586ecbc8970b67c0c330fb05f5b52920b721572aea0070e944ca"
 metafile = true
 
 [[files]]
@@ -563,12 +563,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "4491dadfb9ba8657b53e2826b22e5fddaa07b8b32c15b05e91104b9cbe0b6dfd"
+hash = "bf828bfa7444fde11c2175cf15337c314c4815aad48bc969a8fa3cc27fbab93f"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "eb215da94f6704b07000c3668175600390a1f0f2b90292a6b65fa18842882a7e"
+hash = "65589e764e19357fac88f11a8f18ad032b7137f9448f38dabf3c718dcccc86e7"
 metafile = true
 
 [[files]]

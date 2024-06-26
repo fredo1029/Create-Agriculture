@@ -11,7 +11,3 @@ hash = "25c603e099928ad75c2020b351fe448f1dd68e44"
 [update.modrinth]
 mod-id = "lWDHr9jE"
 version = "rktqBfn4"
-
-[option]
-optional = true
-description = "Currently breaks ice spires and other non-flat terrain. Disable all 3 to experience non-smoothed terrain until this is fixed. Bug fredo1029 to tune using Terrablender."
