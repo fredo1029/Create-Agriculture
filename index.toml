@@ -17,6 +17,18 @@ file = "README.md"
 hash = "660bc9f056bb0c7ee84c1a30399beae52266beb2ad185f7343db7e21f03bdbd7"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "b30c37d522297798263882bc833c53618b220f52cc8b063915076044d353e1ba"
+
+[[files]]
+file = "global_packs/required_data/delete_the_tree.zip"
+hash = "8ec38eec95cb42c91290072e9b7c04b74d364a74d5a70cb2f22d774bbd006dcf"
+
+[[files]]
+file = "global_packs/required_data/ffb_fix_hc_1.18.2.zip"
+hash = "4c4a406ea1dbc3e82b00db8f41ed97eeee7aca5f7c78b3907156f3ba6c3aad11"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
@@ -44,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/ars-ocultas.pw.toml"
 hash = "b43293a9570cccae46c5efd962815bc568b0ec5ba39979d91423c340df8db4cc"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
 
 [[files]]
@@ -157,6 +174,11 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "a4df7fdc1971708e24e5495db38b4cd2536fcb8ef11635f9d87b179fce5a21eb"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "09e06794ba50f648d1f1894f5e423254ad29d6eb761dc45edf41b0f4641212b0"
 metafile = true
@@ -203,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true
 
 [[files]]
@@ -244,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/ec-ars-compat.pw.toml"
 hash = "a7f8ff219b4bd604b5b7ae95dad380fb8bcf5ba628b79b229182b29601fb968b"
-metafile = true
-
-[[files]]
-file = "mods/ecospherical-expansion.pw.toml"
-hash = "31b77496734b3a4853a34fc589148b7762eaad6de39975c93bc4469c511f1ec4"
 metafile = true
 
 [[files]]
@@ -373,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a883a1da48e1bf90964ee3ce26a198b377ee105be1da7032c42e3bd6d11692e5"
+hash = "a5acb5a1d8e4a5ad6af5192c8e0fad16cdcac252bd15c93b16610f04d23b1a66"
 metafile = true
 
 [[files]]
@@ -568,12 +585,17 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "bf828bfa7444fde11c2175cf15337c314c4815aad48bc969a8fa3cc27fbab93f"
+hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "65589e764e19357fac88f11a8f18ad032b7137f9448f38dabf3c718dcccc86e7"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
