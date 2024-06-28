@@ -194,6 +194,31 @@ hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e3aa54f95b6cf7f69110eb0c8237a3790f02cfb68466d8db9402f248463a91c4"
+metafile = true
+
+[[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "6f61bcf76100c2b83631d1a9d83fe3046c0072b726118a47af204f47d63f534d"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "a27da06b66efba38a7e44989ce1c9290482061fdd3cbf0855a0c82820c2b9440"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "67f73228b7026801df90f5bbea195196fb626d6cbb5d46d3f7b22c9e4cebb731"
+metafile = true
+
+[[files]]
+file = "mods/create-recycle-everything.pw.toml"
+hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
@@ -204,8 +229,18 @@ hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "4c6fbf3f3ea6f6fc907d9673a77dd991776c55ad7a25d0011034d66624616518"
+metafile = true
+
+[[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]
@@ -364,6 +399,11 @@ hash = "594a550b5590844f2d8e71d33a48f50609e1a4a076ca54ea097e38681840a41e"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
@@ -506,6 +546,16 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "95cb627d4f6ac64e0482ad359f0fb9cfa0c1abe248370d61bc2a520d2b8c665c"
 metafile = true
 
 [[files]]
