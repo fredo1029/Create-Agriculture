@@ -214,11 +214,6 @@ hash = "67f73228b7026801df90f5bbea195196fb626d6cbb5d46d3f7b22c9e4cebb731"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
