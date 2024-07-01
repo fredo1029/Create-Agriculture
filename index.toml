@@ -34,11 +34,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "34a97d2567ff613154641a0b0dace49c4f151e8525fb4a47818cba78a3f08063"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "9a389026f2c55cd138b1dea6a937f6fec97c03ace3256fcbf211af55cfd5a152"
 metafile = true
@@ -741,11 +736,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
