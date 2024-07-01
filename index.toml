@@ -569,6 +569,11 @@ hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "c93415111f987afcdfc932d834ded1d3e4bcf1c1e007621c768218e6d937c75d"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
 metafile = true
