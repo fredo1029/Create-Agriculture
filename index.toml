@@ -609,11 +609,6 @@ hash = "71fb122e45cdca180045dbd8ae4e1cae2518ff41506bb19841ef99b1732097c0"
 metafile = true
 
 [[files]]
-file = "mods/pams-harvestcraft-2-trees.pw.toml"
-hash = "a98f1a28df5e84b70731d2d034a71ae1eb85b1cf69c259c3b2f07cb958ce26fc"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -671,11 +666,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
 hash = "26a61e350b260272b2218276ca5d14f3c62b312e80856da1de71c56f53b24b3f"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons-pams-harvestcraft-2-trees-compat.pw.toml"
-hash = "c1ca09c63acce85c02ee6104bc625fa9c17bdd47b5443532ba1568a80c1a690e"
 metafile = true
 
 [[files]]
