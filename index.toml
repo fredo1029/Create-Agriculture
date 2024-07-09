@@ -70,11 +70,6 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "cbf0c726dc6a0117faa264c7eba1d59d5a1e11a6c2ede1c2be4d6f320fdd62d5"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0a12bf7b326e85031ba681a430d2bba8446d50fd9813fa5e7397e7eaf46c64ee"
 metafile = true
@@ -787,6 +782,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "71f06b7f212c5f5f52d54afc931a5a282a082ce5587466fd0cb492ca061b0d5d"
 metafile = true
 
 [[files]]
