@@ -785,6 +785,11 @@ hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "1460e32c7c409bd215b11378f8fcf21b6e9a916c8e37053b1d996d42175837f2"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "71f06b7f212c5f5f52d54afc931a5a282a082ce5587466fd0cb492ca061b0d5d"
 metafile = true
