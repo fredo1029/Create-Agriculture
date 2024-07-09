@@ -495,11 +495,6 @@ hash = "1eeaf42b4c6285f4cbcbf20b7d27d865dc80ae6d7652ba4b11948dcc57fb3b9a"
 metafile = true
 
 [[files]]
-file = "mods/mcdw.pw.toml"
-hash = "5a681511df13b30120b0d25197d72188c85bc12b9265593544a862df5edab804"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "feb9b4a5ebd8bc5e772ab3eee680c7930b000a1f532db30f33a2d47a1a77ee4e"
 metafile = true
