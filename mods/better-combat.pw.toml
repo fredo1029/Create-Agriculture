@@ -1,0 +1,13 @@
+name = "Better Combat"
+filename = "bettercombat-forge-1.8.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/hNenqXi9/bettercombat-forge-1.8.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "b6237bb24bb126a4c0aa60513dd6fc255afdee75"
+
+[update]
+[update.modrinth]
+mod-id = "5sy6g3kz"
+version = "hNenqXi9"

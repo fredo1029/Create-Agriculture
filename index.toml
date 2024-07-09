@@ -65,6 +65,11 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "7d1dbfb519008d002bfef471e8222608dea9282f2cec03c78601f4b55b82c8ed"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0a12bf7b326e85031ba681a430d2bba8446d50fd9813fa5e7397e7eaf46c64ee"
 metafile = true
@@ -307,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
-metafile = true
-
-[[files]]
-file = "mods/ec-ars-compat.pw.toml"
-hash = "a7f8ff219b4bd604b5b7ae95dad380fb8bcf5ba628b79b229182b29601fb968b"
 metafile = true
 
 [[files]]
@@ -602,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
