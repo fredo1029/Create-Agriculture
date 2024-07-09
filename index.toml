@@ -180,6 +180,11 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "a4df7fdc1971708e24e5495db38b4cd2536fcb8ef11635f9d87b179fce5a21eb"
 metafile = true
