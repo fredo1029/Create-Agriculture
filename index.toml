@@ -70,11 +70,6 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "7d1dbfb519008d002bfef471e8222608dea9282f2cec03c78601f4b55b82c8ed"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0a12bf7b326e85031ba681a430d2bba8446d50fd9813fa5e7397e7eaf46c64ee"
 metafile = true
@@ -185,11 +180,6 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
 metafile = true
@@ -202,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "09e06794ba50f648d1f1894f5e423254ad29d6eb761dc45edf41b0f4641212b0"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
 metafile = true
 
 [[files]]
@@ -480,6 +475,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "a5acb5a1d8e4a5ad6af5192c8e0fad16cdcac252bd15c93b16610f04d23b1a66"
 metafile = true
@@ -497,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "fa16e0966aff5f1578016a8a74a12c3bd3aca7d1d9d4aa076ee2d61ccf1a4654"
-metafile = true
-
-[[files]]
-file = "mods/mcdw.pw.toml"
-hash = "5a681511df13b30120b0d25197d72188c85bc12b9265593544a862df5edab804"
 metafile = true
 
 [[files]]
@@ -617,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
