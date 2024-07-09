@@ -310,6 +310,26 @@ hash = "0ad8bc84181732e586303ba2791eff3823e2ab504c70057c6e8fefaa7db2f880"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-ars-nouveau.pw.toml"
+hash = "170c1a0b6fd950fb590ad3dd351feb2931d9eaa27b53d2c1fe6a765beeeef2e1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "2b294acfdcfb72f536bf32183e16dfbbc1326db53ea782c6be6003c0be340ec0"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-terralith.pw.toml"
+hash = "f1353799a3c4046c6e81c3cc42cf1d0693ac137e5f2a4c69d2a7aa2b7782fb18"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "89cd49a5e2b655c2326418ab5aeaf620c1ec8370b28edd0b0b78dd33973bb94b"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
 metafile = true

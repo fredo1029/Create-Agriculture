@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Quark"
+filename = "DynamicTreesQuark-1.20.1-2.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9paueCZy/versions/zlUaq1zw/DynamicTreesQuark-1.20.1-2.5.3.jar"
+hash-format = "sha1"
+hash = "0568879dc700c325d9377439b3ab2006069b9dfd"
+
+[update]
+[update.modrinth]
+mod-id = "9paueCZy"
+version = "zlUaq1zw"
