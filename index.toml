@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
@@ -320,11 +320,6 @@ hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
 metafile = true
 
 [[files]]
-file = "mods/ec-ars-compat.pw.toml"
-hash = "a7f8ff219b4bd604b5b7ae95dad380fb8bcf5ba628b79b229182b29601fb968b"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "6dce55d401c225ebaf8f2a5cd1fa17db82fa23ff01a1dd5a9d42da2ae386874d"
 metafile = true
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+hash = "1771bb03e3502a1838373daf13bece0471533f3b0ef22343b2e396acc2c3082b"
 metafile = true
 
 [[files]]
