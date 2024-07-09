@@ -310,11 +310,6 @@ hash = "0ad8bc84181732e586303ba2791eff3823e2ab504c70057c6e8fefaa7db2f880"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-ars-nouveau.pw.toml"
-hash = "170c1a0b6fd950fb590ad3dd351feb2931d9eaa27b53d2c1fe6a765beeeef2e1"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
 hash = "2b294acfdcfb72f536bf32183e16dfbbc1326db53ea782c6be6003c0be340ec0"
 metafile = true
