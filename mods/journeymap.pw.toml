@@ -11,3 +11,7 @@ hash = "cccc91a8ab88e145b6358419ae8e52c7ce302d36"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "gQvJhjQf"
+
+[option]
+optional = true
+description = "Use for testing, or if you really want a complete world map."
