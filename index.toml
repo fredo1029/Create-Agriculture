@@ -730,6 +730,11 @@ hash = "31e492a48e31300b8e6f42d0b4b7b2c827024b647c74d4613180a5cb6b4b125c"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "09819f64a3800d159fba59cd4e38d3a078a3dc734dd346233e44b149bcc446ec"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "374a8d139151d4bc90745c29a049fb9f7c3e5885fee80bb3655a02eb7d960f7b"
 metafile = true
