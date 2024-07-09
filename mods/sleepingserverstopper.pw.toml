@@ -1,0 +1,9 @@
+name = "Sleeping Server Stopper Mod"
+filename = "sleepingserverstoppermod-3.0.0-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/MadaHaz/SleepingServerStopperMod-Forge/releases/download/v3.0.0/sleepingserverstoppermod-3.0.0-1.20.1.jar"
+
+hash-format = "sha256"
+hash = "be894d22ef3312a361c89812e1f67cfab6796130043e7210a946d815ae388e0b"

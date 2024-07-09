@@ -21,10 +21,6 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "b30c37d522297798263882bc833c53618b220f52cc8b063915076044d353e1ba"
 
 [[files]]
-file = "global_packs/required_data/delete_the_tree.zip"
-hash = "8ec38eec95cb42c91290072e9b7c04b74d364a74d5a70cb2f22d774bbd006dcf"
-
-[[files]]
 file = "global_packs/required_data/ffb_fix_hc_1.18.2.zip"
 hash = "4c4a406ea1dbc3e82b00db8f41ed97eeee7aca5f7c78b3907156f3ba6c3aad11"
 
@@ -676,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/silents-delight.pw.toml"
 hash = "c0558611b78fb63f354f9550716c35954f511d4a73ffa155cee8a6646d623428"
+metafile = true
+
+[[files]]
+file = "mods/sleepingserverstopper.pw.toml"
+hash = "78fd673cd12c2064410bc3c704115d00c76224e6a23f5cb4cd54e509d9881e28"
 metafile = true
 
 [[files]]
