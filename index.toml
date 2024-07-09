@@ -180,11 +180,6 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
 metafile = true
@@ -505,11 +500,6 @@ hash = "fa16e0966aff5f1578016a8a74a12c3bd3aca7d1d9d4aa076ee2d61ccf1a4654"
 metafile = true
 
 [[files]]
-file = "mods/mcdw.pw.toml"
-hash = "5a681511df13b30120b0d25197d72188c85bc12b9265593544a862df5edab804"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "feb9b4a5ebd8bc5e772ab3eee680c7930b000a1f532db30f33a2d47a1a77ee4e"
 metafile = true
@@ -622,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
