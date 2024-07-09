@@ -11,3 +11,7 @@ hash = "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "C2l2XSyM"
+
+[option]
+optional = true
+description = "not recommended unless you need help managing your inventory, high learning curve"
