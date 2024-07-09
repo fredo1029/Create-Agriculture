@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleepingserverstopper.pw.toml"
-hash = "78fd673cd12c2064410bc3c704115d00c76224e6a23f5cb4cd54e509d9881e28"
+hash = "9ab795f8fa3e6673d318ee2e6ef842d5ed04f63b2ba524cd050e2d2ae53a6702"
 metafile = true
 
 [[files]]
