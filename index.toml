@@ -30,13 +30,8 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "7511dd2b75e977099e7c3375def63b29b28ab197e680da9adc3eb199caf91d48"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+hash = "b5dddc04ca5d232a1279ca16f7efb42431e3b6235564a668990042e9f14bc806"
 metafile = true
 
 [[files]]
@@ -497,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "fa16e0966aff5f1578016a8a74a12c3bd3aca7d1d9d4aa076ee2d61ccf1a4654"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "1eeaf42b4c6285f4cbcbf20b7d27d865dc80ae6d7652ba4b11948dcc57fb3b9a"
 metafile = true
 
 [[files]]
@@ -792,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "1ace8900da31fd0e73918a01e9f8414df37607f5a85b26f754756dcbcf67ce86"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
 metafile = true
 
 [[files]]
