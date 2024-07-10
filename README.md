@@ -10,122 +10,161 @@ To launch the pack from the index.toml and pack.toml files, you will need a laun
 <details>
   <summary>Mod-list</summary>
 
-  - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H)
-  - [Valkyrien Skies 2](https://modrinth.com/mod/V5ujR2yw)
-  - [Create: Structures](https://modrinth.com/mod/IAnP4np7)
-  - [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
-  - [Farmer's Delight CookBook Reforge](https://modrinth.com/mod/RpguhJmg)
-  - [Smoothchunk mod](https://www.curseforge.com/projects/582327)
-  - [Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn)
-  - [Curios API](https://modrinth.com/mod/vvuO3ImH)
-  - [Create: Estrogen](https://modrinth.com/mod/HhIJW8n1)
-  - [Chefs Delight](https://modrinth.com/mod/pvcsfne4)
-  - [Caelus API](https://modrinth.com/mod/40FYwb4z)
-  - [Miner's Delight](https://modrinth.com/mod/qMxbM4BQ)
-  - [Seamless](https://modrinth.com/mod/rhyHyQke)
-  - [BotanyPots](https://modrinth.com/mod/U6BUTZ7K)
-  - [Sophisticated Backpacks](https://www.curseforge.com/projects/422301)
-  - [Canary](https://modrinth.com/mod/qa2H4BS9)
-  - [FPS Reducer](https://modrinth.com/mod/iZ10HXDj)
-  - [Pam's HarvestCraft 2 - Food Core](https://modrinth.com/mod/Z9OywhE4)
-  - [Towns and Towers](https://modrinth.com/mod/DjLobEOy)
-  - [CoFH Core](https://modrinth.com/mod/OWSRM4vD)
-  - [Elytra Slot](https://modrinth.com/mod/mSQF1NpT)
-  - [Vegan Delight](https://modrinth.com/mod/Na8nA0jA)
-  - [Create](https://modrinth.com/mod/LNytGWDc)
-  - [Chunk Pregenerator](https://www.curseforge.com/projects/267193)
-  - [Crate Delight](https://modrinth.com/mod/9rlXSyLg)
-  - [Create Deco](https://modrinth.com/mod/sMvUb4Rb)
-  - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
-  - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
-  - [Ferrite Core](https://modrinth.com/mod/uXXizFIs)
-  - [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)
-  - [Alex's Caves](https://modrinth.com/mod/U6GY0xp0)
-  - [Tectonic](https://modrinth.com/mod/lWDHr9jE)
-  - [Mystical Agriculture](https://modrinth.com/mod/C95ReXie)
-  - [Saturn](https://modrinth.com/mod/2eT495vq)
-  - [Thermal Foundation](https://modrinth.com/mod/Xvg6q5Wp)
-  - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm)
-  - [Thermal Integration](https://modrinth.com/mod/Ro7yiyD4)
-  - [BotanyPotsTiers](https://modrinth.com/mod/fvMhZPuf)
-  - [Ars Ocultas](https://modrinth.com/mod/Tsw8vbks)
-  - [CTOV - Farmer Delight Compat](https://modrinth.com/mod/CdRC4fyI)
-  - [Mystical Oak Tree](https://modrinth.com/mod/eUma2vmY)
-  - [Cupboard utilities](https://www.curseforge.com/projects/326652)
-  - [Funky Flora](https://modrinth.com/mod/UJibvFJR)
-  - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6)
-  - [spark](https://modrinth.com/mod/l6YH9Als)
-  - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
-  - [Coffee Delight](https://modrinth.com/mod/jn1HiMrY)
-  - [Jade Addons](https://modrinth.com/mod/xuDOzCLy)
-  - [Extreme Sound Muffler](https://modrinth.com/mod/5IIKsxiL)
-  - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM)
-  - [Modonomicon](https://modrinth.com/mod/692GClaE)
-  - [Festive Delight](https://modrinth.com/mod/AsUUCoXX)
-  - [CTOV - Create: Structures](https://modrinth.com/mod/l9fldtN4)
-  - [Fusion](https://modrinth.com/mod/p19vrgc2)
-  - [FastFurnace](https://www.curseforge.com/projects/299540)
-  - [Alex's Mobs](https://modrinth.com/mod/2cMuAZAp)
-  - [Botany Pots Ore Planting](https://modrinth.com/mod/CH8ZMjgi)
-  - [Patchouli](https://modrinth.com/mod/nU0bVIaL)
-  - [Clumps](https://modrinth.com/mod/Wnxd13zP)
-  - [Ars Expanded Combat](https://modrinth.com/mod/UZo5yrwp)
-  - [Thermal Expansion](https://modrinth.com/mod/hmD6rrUJ)
-  - [Architectury](https://modrinth.com/mod/lhGA9TYQ)
-  - [Cucumber Library](https://modrinth.com/mod/Rw1NrDzF)
-  - [End's Delight](https://modrinth.com/mod/yHN0njMr)
-  - [Storage Delight](https://modrinth.com/mod/LTTvOp5L)
-  - [McJtyLib](https://modrinth.com/mod/1Zu0uTEE)
-  - [Sophisticated Core](https://www.curseforge.com/projects/618298)
-  - [BotanyTrees](https://modrinth.com/mod/mvs7RoIW)
-  - [Jade](https://modrinth.com/mod/nvQzSEkH)
-  - [Serene Seasons - Pam's HarvestCraft 2 - Crops Compat](https://www.curseforge.com/projects/549716)
-  - [Cristel Lib](https://modrinth.com/mod/cl223EMc)
-  - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH)
-  - [Thermal Cultivation](https://modrinth.com/mod/5beJoehw)
-  - [Lithostitched](https://modrinth.com/mod/XaDC71GB)
-  - [betterfpsdist mod](https://www.curseforge.com/projects/551520)
-  - [Journeymap](https://modrinth.com/mod/lfHFW1mp)
-  - [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv)
-  - [Nether's Delight](https://modrinth.com/mod/Vv0RM7WN)
-  - [Lootr](https://modrinth.com/mod/EltpO5cN)
-  - [Fancy Trinkets](https://modrinth.com/mod/qPFz1WPA)
-  - [Serene Seasons](https://modrinth.com/mod/e0bNACJD)
-  - [Citadel](https://modrinth.com/mod/jJfV67b1)
-  - [Create Track Map](https://modrinth.com/mod/gxoNIjg6)
-  - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh)
-  - [Fast Workbench](https://www.curseforge.com/projects/288885)
-  - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
-  - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A)
-  - [Ars Nouveau](https://modrinth.com/mod/TKB6INcv)
-  - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/projects/365460)
-  - [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g)
-  - [SmartBrainLib](https://modrinth.com/mod/PuyPazRT)
-  - [Ecospherical Expansion](https://modrinth.com/mod/WtcuxDNN)
-  - Ecospherical Expansion and Tectonic compat pack, found in Apothicon02 [discord](https://discord.gg/HHqKa8vTAN)
-  - [Expanded Combat](https://modrinth.com/mod/sElBpAJt)
-  - [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW)
-  - [Zeta](https://modrinth.com/mod/MVARlG2f)
-  - [ButchersDelight](https://modrinth.com/mod/B0xSlae0)
-  - [Fast Suite](https://www.curseforge.com/projects/475117)
-  - [Ars Creo](https://modrinth.com/mod/fZ324GMc)
-  - [Mystic's Biomes](https://modrinth.com/mod/kUpOjknA)
-  - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
-  - [Serene Seasons - Pam's HarvestCraft 2 - Trees Compat](https://www.curseforge.com/projects/715030)
-  - [Moonlight Library](https://modrinth.com/mod/twkfQtEc)
-  - [Man of Many Planes](https://modrinth.com/mod/9qdTHi0q)
-  - [Placebo](https://www.curseforge.com/projects/283644)
-  - [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/projects/361385)
-  - [Occultism](https://modrinth.com/mod/sbJh4AZw)
-  - [AI-Improvements](https://modrinth.com/mod/DSVgwcji)
-  - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
-  - [Observable](https://modrinth.com/mod/VYRu7qmG)
-  - [Spice of Life: Apple Pie Edition](https://modrinth.com/mod/u1aDdOsQ)
-  - [Pam's HarvestCraft 2 - Food Extended](https://modrinth.com/mod/bdPeAbPS)
-  - [ButchersDelightfoods](https://modrinth.com/mod/u9J9M7PQ)
-  - [Quark](https://modrinth.com/mod/qnQsVE2z)
-  - [TerraBlender](https://modrinth.com/mod/kkmrDlKT)
-  - [Create: Interactive](https://modrinth.com/mod/MyfCcqiE)
+  - [Thermal Cultivation](https://teamcofh.com/)
+  - Resourcefulconfig
+  - [Spyglass Improvements](https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)
+  - [Create: Structures](https://modrinth.com/mod/create-structures)
+  - [Dynamic Trees for Quark](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
+  - Moonlight Library
+  - [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+  - [Terralith](https://www.stardustlabs.net/)
+  - Placebo
+  - [ChoiceTheorem's Overhauled Village](https://github.com/ChoiceTheorem/ChoiceTheoremsoverhauled-village)
+  - [ToolStats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
+  - [Create: Copycats+](https://github.com/copycats-plus/copycats)
+  - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+  - Embeddium
+  - Silent's Delight
+  - Storage Delight
+  - [Thermal Integration](https://teamcofh.com/)
+  - Quark
+  - Ars Ocultas
+  - Elytra Slot
+  - [Citadel](https://github.com/Alex-the-666/Citadel)
+  - [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
+  - kotlinforforge-4.11.0-all
+  - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+  - [CoFH Core](https://teamcofh.com/)
+  - [Man of Many Planes](https://www.curseforge.com/minecraft/mc-mods/man-of-many-planes)
+  - [Blooming Biosphere](https://modrinth.com/datapack/blooming-biosphere)
+  - [GeckoLib 4](http://geckolib.com/)
+  - [Mouse Tweaks](https://minecraft.curseforge.com/projects/mouse-tweaks)
+  - [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh)
+  - Dynamic Trees for Terralith
+  - [Botarium](https://modrinth.com/mod/botarium)
+  - Create Goggles
+  - Chefs Delight
+  - Plushie Buddies
+  - [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
+  - [Configured](https://mrcrayfish.com/mods?id=configured)
+  - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
+  - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+  - Cristel Lib
+  - [EntityCulling](https://modrinth.com/mod/entityculling)
+  - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+  - SmartBrainLib
+  - [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+  - [Botany Pots Ore Planting](https://www.curseforge.com/minecraft/mc-mods/botany-pots-ore-planting)
+  - Ars Creo
+  - [Caelus API](https://github.com/TheIllusiveC4/Caelus)
+  - [AI-Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+  - Cull Less Leaves Reforged
+  - [Observable](https://github.com/tasgon/observable)
+  - Seamless
+  - Ferrite Core
+  - [Nether's Delight](https://github.com/Umpaz/NethersDelight)
+  - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+  - [Spice of Life: Apple Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-apple-pie-edition)
+  - Create Slice & Dice
+  - Fast Suite
+  - [Nature's Compass](https://github.com/MattCzyr/NaturesCompass)
+  - [BotanyPotsTiers](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers)
+  - End Remastered
+  - End's Delight
+  - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+  - Pam's HarvestCraft 2 - Crops
+  - Fast Workbench
+  - [Modonomicon](https://www.curseforge.com/minecraft/mc-mods/modonomicon)
+  - spark
+  - FastFurnace
+  - [Saturn](https://legacy.curseforge.com/minecraft/mc-mods/saturn)
+  - Map Atlases
+  - Memory Leak Fix
+  - Ocean's Delight
+  - [SuperMartijn642's Config Library](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+  - tetra
+  - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+  - [Create Stuff & Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
+  - [CTOV - Create: Structures](https://modrinth.com/mod/ctov-create-structures)
+  - [BetterF3](https://modrinth.com/mod/betterf3)
+  - Polymorph
+  - Create: Bells & Whistles
+  - [CookingForBlockheads](https://mods.twelveiterations.com/mc/cookingforblockheads)
+  - Global Packs
+  - Tectonic
+  - Create: Steam 'n' Rails
+  - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+  - Ars Expanded Combat
+  - [CraftingTweaks](https://mods.twelveiterations.com/mc/craftingtweaks)
+  - Pam's HarvestCraft 2 - Food Extended
+  - More Sniffer Flowers
+  - [Jade](https://minecraft.curseforge.com/projects/jade)
+  - Towns and Towers
+  - Coffee Delight
+  - [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+  - Mystical Oak Tree
+  - [Catalogue](https://mrcrayfish.com/mods?id=catalogue)
+  - Ars Nouveau
+  - Zeta
+  - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul)
+  - Pam's HarvestCraft 2 - Food Core
+  - Create: Estrogen
+  - [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+  - Create: Design n' Decor
+  - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+  - betterfpsdist mod
+  - Fancy Trinkets
+  - [Rechiseled: Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+  - [Oculus](https://curseforge.com/minecraft/mc-mods/oculus)
+  - Xaero's Minimap
+  - Expanded Combat
+  - [libIPN](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next)
+  - [ButchersDelight](https://www.curseforge.com/minecraft/mc-mods/butchers-delight)
+  - [Fusion](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+  - [Thermal Expansion](https://teamcofh.com/)
+  - Farmer's Delight CookBook Reforge
+  - [ButchersDelightfoods](https://www.curseforge.com/minecraft/mc-mods/butchers-delight)
+  - Create: Trimmed
+  - Miner's Delight
+  - [Dynamic Trees](http://minecraft.curseforge.com/projects/dynamictrees)
+  - Smoothchunk mod
+  - Chunk Pregenerator
+  - [Festive Delight](https://discord.gg/k3fGJwJqzu)
+  - [Farmer's Delight](https://github.com/vectorwing/FarmersDelight)
+  - Crate Delight
+  - [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft)
+  - [Cloth Config v10 API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/)
+  - Connector-1.0.0-beta.44+1.20.1
+  - Create Ender Transmission
+  - Vegan Delight
+  - [Create Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation)
+  - Torchmaster
+  - [Lootr](https://minecraft.curseforge.com/projects/lootr)
+  - [Serene Seasons - Pam's HarvestCraft 2 - Crops Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-crops-compat)
+  - [Balm](https://mods.twelveiterations.com/)
+  - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)
+  - mutil
+  - [CTOV - Farmer Delight Compat](https://modrinth.com/datapack/ctov-farmers-delight-compat)
+  - [Thermal Foundation](https://teamcofh.com/)
+  - [Create Crafts & Additions](https://github.com/mrh0/createaddition)
+  - [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
+  - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+  - [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+  - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
+  - [Cucumber Library](https://blakesmods.com/cucumber)
+  - Cupboard utilities
+  - [FPS Reducer](https://minecraft.curseforge.com/projects/fps-reducer)
+  - [McJtyLib](http://github.com/McJtyMods/McJtyLib/)
+  - Architectury
+  - Create Deco
+  - Resourceful Lib
+  - [AppleSkin](https://github.com/squeek502/AppleSkin)
+  - Mystic's Biomes
+  - [Mystical Agriculture](https://blakesmods.com/mystical-agriculture)
+  - Lithostitched
+  - Forgified Fabric API
+  - [BotanyTrees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+  - Patchouli
 
 </details>
 
