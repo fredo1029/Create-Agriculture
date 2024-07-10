@@ -310,6 +310,21 @@ hash = "0ad8bc84181732e586303ba2791eff3823e2ab504c70057c6e8fefaa7db2f880"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "2b294acfdcfb72f536bf32183e16dfbbc1326db53ea782c6be6003c0be340ec0"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-terralith.pw.toml"
+hash = "f1353799a3c4046c6e81c3cc42cf1d0693ac137e5f2a4c69d2a7aa2b7782fb18"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "89cd49a5e2b655c2326418ab5aeaf620c1ec8370b28edd0b0b78dd33973bb94b"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
 metafile = true
@@ -715,6 +730,11 @@ hash = "31e492a48e31300b8e6f42d0b4b7b2c827024b647c74d4613180a5cb6b4b125c"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "09819f64a3800d159fba59cd4e38d3a078a3dc734dd346233e44b149bcc446ec"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "374a8d139151d4bc90745c29a049fb9f7c3e5885fee80bb3655a02eb7d960f7b"
 metafile = true
@@ -767,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "1460e32c7c409bd215b11378f8fcf21b6e9a916c8e37053b1d996d42175837f2"
 metafile = true
 
 [[files]]

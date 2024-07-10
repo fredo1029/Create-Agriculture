@@ -1,0 +1,13 @@
+name = "Spyglass Improvements"
+filename = "spyglass_improvements-1.5+mc1.20+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z6ykjRlM/versions/chgnA6zJ/spyglass_improvements-1.5%2Bmc1.20%2Bforge.jar"
+hash-format = "sha1"
+hash = "16166f37208282f35d1b16e780f282fc06c9872c"
+
+[update]
+[update.modrinth]
+mod-id = "Z6ykjRlM"
+version = "chgnA6zJ"
